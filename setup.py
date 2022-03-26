@@ -17,7 +17,7 @@ DESCRIPTION = 'jren.cc Python Commons.'
 URL = 'https://github.com/jrencc/py-commons.git'
 EMAIL = 'artanis.yang@outlook.com'
 AUTHOR = 'Art Yang'
-REQUIRES_PYTHON = '>=3.9.0'
+REQUIRES_PYTHON = '>=3.8.10'
 VERSION = '0.0.1'
 
 # What packages are required for this module to be executed?
